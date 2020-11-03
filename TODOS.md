@@ -41,11 +41,15 @@
 
 ## Frontend
 
-- [ ] Create Wireframe Design
+- [x] Create Wireframe Design
 
 ### Pages
 
-- [ ] Home
-- [ ] Login
-- [ ] Register
-- [ ] UI Themes
+- [x] Home
+- [x] Login
+- [x] Register
+- [x] UI Themes
+- [ ] Books
+- [ ] Categories
+- [ ] Authors
+- [ ] Dashboard
