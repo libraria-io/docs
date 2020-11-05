@@ -49,7 +49,9 @@
 - [x] Login
 - [x] Register
 - [x] UI Themes
-- [ ] Books
+- [x] Books
 - [ ] Categories
-- [ ] Authors
+- [ ] Tags
+- [ ] Users
+- [x] Authors
 - [ ] Dashboard
