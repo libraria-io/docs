@@ -50,8 +50,8 @@
 - [x] Register
 - [x] UI Themes
 - [x] Books
-- [ ] Categories
-- [ ] Tags
-- [ ] Users
+- [x] Categories
+- [x] Tags
+- [x] Users
 - [x] Authors
-- [ ] Dashboard
+- [x] Dashboard
